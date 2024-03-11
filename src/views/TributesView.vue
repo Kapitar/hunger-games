@@ -1,16 +1,16 @@
 <template>
   <div class="district district1">
     <div class="container">
-      <div class="title text-center">
+      <div class="title text-center ">
         <h1>DISTRICT 1</h1>
         <h3>Jewelry And Luxury Items</h3>
       </div>
       <div class="tributes pt-5">
-        <div class="tribute female row">
-          <div class="col-2">
+        <div class="tribute female row text-xl-start text-center">
+          <div class="col-xl-2 text-xl-start">
             <div class="avatar tribute1-female"></div>
           </div>
-          <div class="col-10 tribute-description">
+          <div class="col-xl-10 text-xl-start tribute-description">
             <h3 class="tribute-name">
               Glimmer
             </h3>
@@ -19,13 +19,13 @@
         </div>
 
         <div class="tribute male row">
-          <div class="col-10 tribute-description">
+          <div class="col-xl-10 tribute-description text-center text-xl-end">
             <h3 class="tribute-name">
               Marvel
             </h3>
             <p>Marvel was the male tribute from District 1 in the the 74th Hunger Games. As a Career Tribute, Marvel was strong and ruthless, yet overconfident. It is unknown if he volunteered or was reaped for the Games. He presumably trained extremely for Games life like most tributes from his district.</p>
           </div>
-          <div class="col-2">
+          <div class="col-xl-2 text-xl-start text-center">
             <div class="avatar tribute1-male"></div>
           </div>
         </div>
@@ -39,11 +39,11 @@
         <h3>Masonry And Weapons Manufacturing</h3>
       </div>
       <div class="tributes pt-5">
-        <div class="tribute female row">
-          <div class="col-2">
+        <div class="tribute female row text-xl-start text-center">
+          <div class="col-xl-2">
             <div class="avatar tribute2-female"></div>
           </div>
-          <div class="col-10 tribute-description">
+          <div class="col-xl-10 tribute-description">
             <h3 class="tribute-name">
               Clove
             </h3>
@@ -51,15 +51,15 @@
           </div>
         </div>
 
-        <div class="tribute male row">
-          <div class="col-10 tribute-description">
+        <div class="tribute male row text-xl-end text-center">
+          <div class="col-xl-10 tribute-description">
             <h3 class="tribute-name">
               Cato
             </h3>
             <p>Cato was the male tribute from District 2 in the 74th Hunger Games and one of the main antagonists of The
               Hunger Games due to being a Career Tribute. He is the leader of the Career alliance formed by tributes from Districts 1, 2, and 4. Like Katniss Everdeen he volunteered for the Games.</p>
           </div>
-          <div class="col-2">
+          <div class="col-xl-2">
             <div class="avatar tribute2-male"></div>
           </div>
         </div>
@@ -73,11 +73,11 @@
         <h3>Electronics</h3>
       </div>
       <div class="tributes pt-5">
-        <div class="tribute female row">
-          <div class="col-2">
+        <div class="tribute female row text-xl-start text-center">
+          <div class="col-xl-2">
             <div class="avatar tribute3-female"></div>
           </div>
-          <div class="col-10 tribute-description">
+          <div class="col-xl-10 tribute-description">
             <h3 class="tribute-name">
               District 3 Female
             </h3>
@@ -85,14 +85,14 @@
           </div>
         </div>
 
-        <div class="tribute male row">
-          <div class="col-10 tribute-description">
+        <div class="tribute male row text-xl-end text-center">
+          <div class="col-xl-10 tribute-description">
             <h3 class="tribute-name">
               District 3 Male
             </h3>
             <p>No information.</p>
           </div>
-          <div class="col-2">
+          <div class="col-xl-2">
             <div class="avatar tribute3-male"></div>
           </div>
         </div>
@@ -106,11 +106,11 @@
         <h3>Fishing</h3>
       </div>
       <div class="tributes pt-5">
-        <div class="tribute female row">
-          <div class="col-2">
+        <div class="tribute female row text-xl-start text-center">
+          <div class="col-xl-2">
             <div class="avatar tribute4-female"></div>
           </div>
-          <div class="col-10 tribute-description">
+          <div class="col-xl-10 tribute-description">
             <h3 class="tribute-name">
               District 4 Female
             </h3>
@@ -118,14 +118,14 @@
           </div>
         </div>
 
-        <div class="tribute male row">
-          <div class="col-10 tribute-description">
+        <div class="tribute male row text-xl-end text-center">
+          <div class="col-xl-10 tribute-description">
             <h3 class="tribute-name">
               District 4 Male
             </h3>
             <p>No information.</p>
           </div>
-          <div class="col-2">
+          <div class="col-xl-2">
             <div class="avatar tribute4-male"></div>
           </div>
         </div>
@@ -139,11 +139,11 @@
         <h3>Electricity</h3>
       </div>
       <div class="tributes pt-5">
-        <div class="tribute female row">
-          <div class="col-2">
+        <div class="tribute female row text-xl-start text-center">
+          <div class="col-xl-2">
             <div class="avatar tribute5-female"></div>
           </div>
-          <div class="col-10 tribute-description">
+          <div class="col-xl-10 tribute-description">
             <h3 class="tribute-name">
               Foxface
             </h3>
@@ -151,14 +151,14 @@
           </div>
         </div>
 
-        <div class="tribute male row">
-          <div class="col-10 tribute-description">
+        <div class="tribute male row text-xl-end text-center">
+          <div class="col-xl-10 tribute-description">
             <h3 class="tribute-name">
               District 5 Male
             </h3>
             <p>No information.</p>
           </div>
-          <div class="col-2">
+          <div class="col-xl-2">
             <div class="avatar tribute5-male"></div>
           </div>
         </div>
@@ -172,11 +172,11 @@
         <h3>Transportation</h3>
       </div>
       <div class="tributes pt-5">
-        <div class="tribute female row">
-          <div class="col-2">
+        <div class="tribute female row text-xl-start text-center">
+          <div class="col-xl-2">
             <div class="avatar tribute6-female"></div>
           </div>
-          <div class="col-10 tribute-description">
+          <div class="col-xl-10 tribute-description">
             <h3 class="tribute-name">
               District 6 Female
             </h3>
@@ -184,14 +184,14 @@
           </div>
         </div>
 
-        <div class="tribute male row">
-          <div class="col-10 tribute-description">
+        <div class="tribute male row text-xl-end text-center">
+          <div class="col-xl-10 tribute-description">
             <h3 class="tribute-name">
               District 6 Male
             </h3>
             <p>No information.</p>
           </div>
-          <div class="col-2">
+          <div class="col-xl-2">
             <div class="avatar tribute6-male"></div>
           </div>
         </div>
@@ -205,11 +205,11 @@
         <h3>Lumber</h3>
       </div>
       <div class="tributes pt-5">
-        <div class="tribute female row">
-          <div class="col-2">
+        <div class="tribute female row text-xl-start text-center">
+          <div class="col-xl-2">
             <div class="avatar tribute7-female"></div>
           </div>
-          <div class="col-10 tribute-description">
+          <div class="col-xl-10 tribute-description">
             <h3 class="tribute-name">
               District 7 Female
             </h3>
@@ -217,14 +217,14 @@
           </div>
         </div>
 
-        <div class="tribute male row">
-          <div class="col-10 tribute-description">
+        <div class="tribute male row text-xl-end text-center">
+          <div class="col-xl-10 tribute-description">
             <h3 class="tribute-name">
               District 7 Male
             </h3>
             <p>No information.</p>
           </div>
-          <div class="col-2">
+          <div class="col-xl-2">
             <div class="avatar tribute7-male"></div>
           </div>
         </div>
@@ -238,11 +238,11 @@
         <h3>Textiles</h3>
       </div>
       <div class="tributes pt-5">
-        <div class="tribute female row">
-          <div class="col-2">
+        <div class="tribute female row text-xl-start text-center">
+          <div class="col-xl-2">
             <div class="avatar tribute8-female"></div>
           </div>
-          <div class="col-10 tribute-description">
+          <div class="col-xl-10 tribute-description">
             <h3 class="tribute-name">
               District 8 Female
             </h3>
@@ -250,14 +250,14 @@
           </div>
         </div>
 
-        <div class="tribute male row">
-          <div class="col-10 tribute-description">
+        <div class="tribute male row text-xl-end text-center">
+          <div class="col-xl-10 tribute-description">
             <h3 class="tribute-name">
               District 8 Male
             </h3>
             <p>No information.</p>
           </div>
-          <div class="col-2">
+          <div class="col-xl-2">
             <div class="avatar tribute8-male"></div>
           </div>
         </div>
@@ -271,11 +271,11 @@
         <h3>Grain Production</h3>
       </div>
       <div class="tributes pt-5">
-        <div class="tribute female row">
-          <div class="col-2">
+        <div class="tribute female row text-xl-start text-center">
+          <div class="col-xl-2">
             <div class="avatar tribute9-female"></div>
           </div>
-          <div class="col-10 tribute-description">
+          <div class="col-xl-10 tribute-description">
             <h3 class="tribute-name">
               District 9 Female
             </h3>
@@ -283,14 +283,14 @@
           </div>
         </div>
 
-        <div class="tribute male row">
-          <div class="col-10 tribute-description">
+        <div class="tribute male row text-xl-end text-center">
+          <div class="col-xl-10 tribute-description">
             <h3 class="tribute-name">
               District 9 Male
             </h3>
             <p>No information.</p>
           </div>
-          <div class="col-2">
+          <div class="col-xl-2">
             <div class="avatar tribute9-male"></div>
           </div>
         </div>
@@ -304,11 +304,11 @@
         <h3>Livestock</h3>
       </div>
       <div class="tributes pt-5">
-        <div class="tribute female row">
-          <div class="col-2">
+        <div class="tribute female row text-xl-start text-center">
+          <div class="col-xl-2">
             <div class="avatar tribute10-female"></div>
           </div>
-          <div class="col-10 tribute-description">
+          <div class="col-xl-10 tribute-description">
             <h3 class="tribute-name">
               District 10 Female
             </h3>
@@ -316,14 +316,14 @@
           </div>
         </div>
 
-        <div class="tribute male row">
-          <div class="col-10 tribute-description">
+        <div class="tribute male row text-xl-end text-center">
+          <div class="col-xl-10 tribute-description">
             <h3 class="tribute-name">
               District 10 Male
             </h3>
             <p>No information.</p>
           </div>
-          <div class="col-2">
+          <div class="col-xl-2">
             <div class="avatar tribute10-male"></div>
           </div>
         </div>
@@ -337,11 +337,11 @@
         <h3>Agriculture</h3>
       </div>
       <div class="tributes pt-5">
-        <div class="tribute female row">
-          <div class="col-2">
+        <div class="tribute female row text-xl-start text-center">
+          <div class="col-xl-2">
             <div class="avatar tribute11-female"></div>
           </div>
-          <div class="col-10 tribute-description">
+          <div class="col-xl-10 tribute-description">
             <h3 class="tribute-name">
               Rue
             </h3>
@@ -349,14 +349,14 @@
           </div>
         </div>
 
-        <div class="tribute male row">
-          <div class="col-10 tribute-description">
+        <div class="tribute male row text-xl-end text-center">
+          <div class="col-xl-10 tribute-description">
             <h3 class="tribute-name">
               Thresh
             </h3>
             <p>hresh was the male tribute from District 11 in the 74th Hunger Games. Strong and resourceful, he posed a serious threat to the other tributes participating in the Games. Almost nothing about him is known before the Games.</p>
           </div>
-          <div class="col-2">
+          <div class="col-xl-2">
             <div class="avatar tribute11-male"></div>
           </div>
         </div>
@@ -370,11 +370,11 @@
         <h3>Coal Mining</h3>
       </div>
       <div class="tributes pt-5">
-        <div class="tribute female row">
-          <div class="col-2">
+        <div class="tribute female row text-xl-start text-center">
+          <div class="col-xl-2">
             <div class="avatar tribute12-female"></div>
           </div>
-          <div class="col-10 tribute-description">
+          <div class="col-xl-10 tribute-description">
             <h3 class="tribute-name">
               Katniss
             </h3>
@@ -382,14 +382,14 @@
           </div>
         </div>
 
-        <div class="tribute male row">
-          <div class="col-10 tribute-description">
+        <div class="tribute male row text-xl-end text-center">
+          <div class="col-xl-10 tribute-description ">
             <h3 class="tribute-name">
               Peeta
             </h3>
             <p>The son of a baker, so he can make anyhting taste good, Peeta shows how brave he is when he sees Katniss go through his garbage, almost starved to death when he purposely burned bread, took a beating for her and gave her the bread.</p>
           </div>
-          <div class="col-2">
+          <div class="col-xl-2">
             <div class="avatar tribute12-male"></div>
           </div>
         </div>

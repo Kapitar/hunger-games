@@ -4,41 +4,41 @@
       <h1 class="text-center">DAY 1</h1>
       <p class="text-center"><router-link :to="{ name: 'timeline_day2' }">NEXT</router-link></p>
       <div class="row pt-5">
-        <div class="col-7">
+        <div class="col-6">
           <div class="action">
-            <div class="avatar2 tribute1-male killer"></div>
+            <div class="avatar3 tribute1-male killer"></div>
             <img class="fight" src="../assets/images/oriental.png" alt="" style="width: 50px">
-            <div class="avatar2 tribute9-female killed"></div>
-            <div class="avatar2 tribute7-female killed"></div>
-            <div class="avatar2 tribute9-male killed"></div>
-            <div class="avatar2 tribute10-male killed"></div>
+            <div class="avatar3 tribute9-female killed"></div>
+            <div class="avatar3 tribute7-female killed"></div>
+            <div class="avatar3 tribute9-male killed"></div>
+            <div class="avatar3 tribute10-male killed"></div>
           </div>
-          <div class="action mt-5">
-            <div class="avatar2 tribute1-female killer"></div>
+          <div class="action mt-4">
+            <div class="avatar3 tribute1-female killer"></div>
             <img class="fight" src="../assets/images/oriental.png" alt="" style="width: 50px">
-            <div class="avatar2 tribute10-female killed"></div>
-            <div class="avatar2 tribute8-male killed"></div>
-            <div class="avatar2 tribute5-male killed"></div>
+            <div class="avatar3 tribute10-female killed"></div>
+            <div class="avatar3 tribute8-male killed"></div>
+            <div class="avatar3 tribute5-male killed"></div>
           </div>
-          <div class="action mt-5">
-            <div class="avatar2 tribute5-male killer"></div>
+          <div class="action mt-4">
+            <div class="avatar3 tribute5-male killer"></div>
             <img class="fight" src="../assets/images/oriental.png" alt="" style="width: 50px">
-            <div class="avatar2 tribute3-female killed"></div>
+            <div class="avatar3 tribute3-female killed"></div>
           </div>
-          <div class="action mt-5">
-            <div class="avatar2 tribute11-male killer"></div>
+          <div class="action mt-4">
+            <div class="avatar3 tribute11-male killer"></div>
             <img class="fight" src="../assets/images/oriental.png" alt="" style="width: 50px">
-            <div class="avatar2 tribute7-male killed"></div>
+            <div class="avatar3 tribute7-male killed"></div>
           </div>
-          <div class="action mt-5">
-            <div class="avatar2 tribute2-male killer"></div>
+          <div class="action mt-4 ">
+            <div class="avatar3 tribute2-male killer"></div>
             <img class="fight" src="../assets/images/oriental.png" alt="" style="width: 50px">
-            <div class="avatar2 tribute6-male killed"></div>
-            <div class="avatar2 tribute8-female killed"></div>
-            <div class="avatar2 tribute4-male killed"></div>
+            <div class="avatar3 tribute6-male killed"></div>
+            <div class="avatar3 tribute8-female killed"></div>
+            <div class="avatar3 tribute4-male killed"></div>
           </div>
         </div>
-        <div class="col-5">
+        <div class="col-6">
           <table>
             <tr class="text-center">
               <td>

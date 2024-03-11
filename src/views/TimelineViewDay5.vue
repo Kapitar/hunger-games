@@ -6,14 +6,14 @@
         <router-link :to="{ name: 'timeline_day4' }">PREV</router-link>
       </p>
       <div class="row pt-5">
-        <div class="col-7">
+        <div class="col-6">
           <div class="action">
-            <div class="avatar2 tribute12-female killer"></div>
+            <div class="avatar3 tribute12-female killer"></div>
             <img class="fight" src="../assets/images/oriental.png" alt="" style="width: 50px">
-            <div class="avatar2 tribute2-male killed"></div>
+            <div class="avatar3 tribute2-male killed"></div>
           </div>
         </div>
-        <div class="col-5">
+        <div class="col-6">
           <table>
             <tr class="text-center">
               <td>

@@ -7,26 +7,26 @@
         <router-link :to="{ name: 'timeline_day5' }">NEXT</router-link>
       </p>
       <div class="row pt-5">
-        <div class="col-7">
+        <div class="col-6">
           <div class="action">
-            <div class="avatar2 tribute11-male killer"></div>
+            <div class="avatar3 tribute11-male killer"></div>
             <img class="fight" src="../assets/images/oriental.png" alt="" style="width: 50px">
-            <div class="avatar2 tribute2-female killed"></div>
+            <div class="avatar3 tribute2-female killed"></div>
           </div>
 
-          <div class="action mt-5">
-            <div class="avatar2 tribute2-male killer"></div>
+          <div class="action mt-4">
+            <div class="avatar3 tribute2-male killer"></div>
             <img class="fight" src="../assets/images/oriental.png" alt="" style="width: 50px">
-            <div class="avatar2 tribute11-male killed"></div>
+            <div class="avatar3 tribute11-male killed"></div>
           </div>
 
-          <div class="action mt-5">
-            <div class="avatar2 tribute12-male killer"></div>
+          <div class="action mt-4">
+            <div class="avatar3 tribute12-male killer"></div>
             <img class="fight" src="../assets/images/oriental.png" alt="" style="width: 50px">
-            <div class="avatar2 tribute5-female killed"></div>
+            <div class="avatar3 tribute5-female killed"></div>
           </div>
         </div>
-        <div class="col-5">
+        <div class="col-6">
           <table>
             <tr class="text-center">
               <td>
