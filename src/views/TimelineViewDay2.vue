@@ -19,27 +19,27 @@
           <table>
             <tr class="text-center">
               <td>
-                <div class="avatar3 tribute1-male"></div>
+                <div class="avatar2 tribute1-male"></div>
                 <p class="tribute-name text-center">District 1</p>
               </td>
               <td>
-                <div class="avatar3 tribute1-female killed"></div>
+                <div class="avatar2 tribute1-female killed"></div>
                 <p class="tribute-name text-center">District 1</p>
               </td>
               <td>
-                <div class="avatar3 tribute2-male"></div>
+                <div class="avatar2 tribute2-male"></div>
                 <p class="tribute-name text-center">District 2</p>
               </td>
               <td>
-                <div class="avatar3 tribute2-female"></div>
+                <div class="avatar2 tribute2-female"></div>
                 <p class="tribute-name text-center">District 2</p>
               </td>
               <td>
-                <div class="avatar3 tribute3-male"></div>
+                <div class="avatar2 tribute3-male"></div>
                 <p class="tribute-name text-center">District 3</p>
               </td>
               <td>
-                <div class="avatar3 tribute3-female killed"></div>
+                <div class="avatar2 tribute3-female killed"></div>
                 <p class="tribute-name text-center">District 3</p>
               </td>
             </tr>
